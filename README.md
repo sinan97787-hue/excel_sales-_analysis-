@@ -1,6 +1,5 @@
 # 📊 Sales Analysis Dashboard (EXCEL)
 
-![Sales Analysis Dashboard](.image of dashboard.png)
 
 ## 🧾 Project Overview
 
