@@ -1,4 +1,5 @@
 # 📊 Sales Analysis Dashboard (EXCEL)
+<img width="1878" height="852" alt="image of dashboard" src="https://github.com/user-attachments/assets/a4d8edc0-e847-4b6d-b753-3b18e627d49f" />
 
 
 ## 🧾 Project Overview
